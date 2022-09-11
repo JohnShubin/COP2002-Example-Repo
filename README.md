@@ -1,5 +1,5 @@
 # Creating a project for GitHub
-# By James Nichols
+# By John Shubin
 
  print("COP2002.0M2 Fall 2022")
  
